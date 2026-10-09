@@ -1,2 +1,2 @@
-# happy-birthday-sarun
-happy birthday sarun
+# happy-birthday
+happy birthday
